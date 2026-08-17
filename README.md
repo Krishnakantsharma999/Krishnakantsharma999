@@ -1,6 +1,139 @@
- # 💫 About Me:
-👋 Hi, I'm Krishnakant!  <br>I'm a web developer passionate about building clean, efficient, and user-friendly applications.  <br><br>💻 Tech Stack:  <br>- Frontend: HTML, CSS, JavaScript, React  <br>- Backend: Node.js, Express, Java  <br>- Databases: MySQL, MongoDB  <br>- Other: Python, C++, Git, REST APIs  <br><br>🚀 Current Focus:  <br>- Developing responsive web apps with modern frameworks  <br>- Exploring full-stack solutions and integrating AI into web projects  <br>- Optimizing performance and accessibility for real-world users  <br><br>📚 Philosophy:  <br>I believe great web experiences come from combining **clarity, performance, and creativity**.  <br>Every project is a chance to learn, refine, and deliver something impactful.  <br><br>✨ Fun Fact:  <br>When I’m not coding, I enjoy solving algorithm challenges — they sharpen my problem-solving mindset for web development.<br>
+ # 👋 Hi, I'm Krishnakant Sharma
 
+### AI/ML Enthusiast | Machine Learning | Deep Learning | Full-Stack Development
+
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Software Development**. I enjoy building practical solutions, solving algorithmic problems, and turning data into meaningful insights.
+
+Currently, I'm focused on strengthening my skills in **Machine Learning, Deep Learning, Computer Vision, Backend Development, and Data Analysis** while building real-world projects.
+
+---
+
+## 💫 About Me
+
+* 🎓 B.Tech Computer Science student at **Jaypee University of Engineering and Technology**
+* 🤖 Interested in **AI, Machine Learning, Deep Learning, and Computer Vision**
+* 💻 Strong foundation in **Data Structures & Algorithms and problem solving**
+* 📊 Experience working with **data preprocessing, feature engineering, model training, and evaluation**
+* 🚀 Interested in building **AI-powered applications and intelligent software systems**
+* 🔥 Regularly practice **DSA and competitive programming problems**
+* 🌱 Continuously learning new technologies and improving my development skills
+
+---
+
+## 🧠 AI / Machine Learning
+
+* Machine Learning
+* Deep Learning
+* Classification
+* Regression
+* Feature Engineering
+* Data Preprocessing
+* Model Evaluation
+* Statistics
+* Artificial Neural Networks (ANN)
+* Convolutional Neural Networks (CNN)
+* Recurrent Neural Networks (RNN)
+* Computer Vision
+* Natural Language Processing (NLP)
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+
+`Python` `C++` `Java` `JavaScript` `TypeScript` `SQL`
+
+### AI / ML
+
+`Scikit-learn` `TensorFlow` `Pandas` `NumPy` `Matplotlib`
+
+### Web Development
+
+`HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express.js` `REST APIs`
+
+### Backend & Databases
+
+`FastAPI` `MySQL` `PostgreSQL` `MongoDB`
+
+### Tools
+
+`Git` `GitHub` `Figma` `Streamlit` `Jupyter Notebook`
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Social Media Addiction & Brainrot Detection System
+
+AI/ML system for analyzing social media usage patterns and predicting addiction levels and behavioral impact.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
+
+* Performed data preprocessing and handling of missing values
+* Applied feature engineering to improve model inputs
+* Trained and evaluated machine learning classification models
+* Analyzed relationships between social media usage and behavioral factors
+* Built an interactive interface for predictions and analysis
+
+### ❤️ Heart Disease Prediction
+
+Machine learning application that predicts the likelihood of heart disease based on patient-related features.
+
+**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
+
+### 📄 SyncDocs
+
+Collaborative document editing application focused on real-time document creation and editing.
+
+**Technologies:** React.js, JavaScript, Tiptap
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 Advanced Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* ⚡ FastAPI
+* 🧩 Generative AI
+* 🤝 AI Agents
+* 🌐 Full-Stack Development
+* 📊 Data Analytics
+
+---
+
+## 💡 What I Enjoy
+
+```text
+Machine Learning     ████████████████████
+Deep Learning        ██████████████████
+Problem Solving      ███████████████████
+Software Development █████████████████
+Data Science         ████████████████
+```
+
+I enjoy taking a problem, understanding the data or requirements behind it, and building a practical solution.
+
+---
+
+## 🎯 Career Interests
+
+I'm particularly interested in opportunities related to:
+
+**AI/ML Engineer • Machine Learning Engineer • AI Engineer • Software Engineer • Backend Developer**
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: [Krishnakant Sharma](https://www.linkedin.com/in/krishnakant-sharma-736907335/)
+* 💻 GitHub: [Krishnakant Sharma](https://github.com/Krishnakantsharma999)
+* 📧 Email: Feel free to connect with me through LinkedIn
+
+---
+
+⭐ *Building, learning, solving, and improving — one project at a time.*
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bhanu3594) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishnakant-sharma-736907335?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakantsharma.231b172@gmail.com) 
